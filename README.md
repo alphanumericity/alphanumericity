@@ -1,4 +1,5 @@
 # AI vs. Traditional Tax Filing: A Comparison
+![AI vs. Traditional Tax Filing: A Comparison](https://github.com/user-attachments/assets/0050a29e-858a-465f-8890-b48581553b82)
 
 When it comes to filing taxes, there are two primary methods: doing it the traditional way (either manually or with basic software) or using [AI-powered tax tools](https://medium.com/@Dansongi/maximizing-your-tax-refund-in-2025-how-ai-can-help-you-uncover-hidden-deductions-bc8470a03e6e). Here’s a side-by-side comparison to help you understand the advantages and disadvantages of each approach.
 
